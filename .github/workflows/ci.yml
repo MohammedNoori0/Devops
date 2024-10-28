@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ╰─ /Users/user/Git-Projects/devops/Dockerfile                                                                           ─╯
 
 jobs:
   build:

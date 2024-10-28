@@ -1,0 +1,28 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform/
+.terraform.lock.hcl
+
+# Local .env files
+.env
+
+# Backup files
+*.tf~ # Backup files created by some editors
+*.tf.bak
+*.tfbackup
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp # Swap files for vim
+*.swo # Swap files for vim
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Terraform plan files
+*.plan

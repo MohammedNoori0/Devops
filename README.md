@@ -1,1 +1,1 @@
-My small devops prject
+My small devops project
